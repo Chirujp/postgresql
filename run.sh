@@ -1,0 +1,1 @@
+docker run --network chiru-test --network-alias postgresql -e POSTGRES_PASSWORD=postgres -d chiru/postgresql
